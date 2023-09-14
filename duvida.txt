@@ -1,0 +1,9 @@
+-> classe JsonAvanc
+precisa arrumar pra colocar nome das pessoas por exemplo e fazer com que cada objeto seja colocado em um array, porque consigo fazer so um objeto json
+
+-> classe encripta
+Minha duvida é se faço o semaforo ali onde fiz ou, o mais provavel, fazer um Runnable para os metodos
+criptografa e decriptografa, se tiver que fazer isso, como mandar os parametros na thread?
+
+
+basicamente é isso por enquanto....
