@@ -19,3 +19,6 @@ https://www.devmedia.com.br/como-criar-um-chat-multithread-com-socket-em-java/33
 
 nesse site, da uma olhada e me ajuda, meio que é um site de zap. Se der errado, eu tenho outro code de socket aqui.
 Se quiser te mando pra dar uma olhada e me falar qual é mais de boa e facil de usar, o outro está comentado.... e sem interface, talvez seja m,ais facil
+
+-> Pra fazer o excel, tenhon que usar isso oute coisa mais facil?
+https://www.devmedia.com.br/apache-poi-manipulando-documentos-em-java/31778
