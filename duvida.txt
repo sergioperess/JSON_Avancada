@@ -7,3 +7,15 @@ criptografa e decriptografa, se tiver que fazer isso, como mandar os parametros 
 
 
 basicamente é isso por enquanto....
+
+
+
+-> Me ajuda nessa parte, n to consequindo conectar o cliente, ta dando erro e o server acho que at certo
+
+Da uma olhada por favor
+Fiz isso mas tirei a interface gráfica e ta dando erro 
+
+https://www.devmedia.com.br/como-criar-um-chat-multithread-com-socket-em-java/33639
+
+nesse site, da uma olhada e me ajuda, meio que é um site de zap. Se der errado, eu tenho outro code de socket aqui.
+Se quiser te mando pra dar uma olhada e me falar qual é mais de boa e facil de usar, o outro está comentado.... e sem interface, talvez seja m,ais facil
